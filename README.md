@@ -44,6 +44,7 @@ All contributions are welcome:
     - [else Statements](#else-statements)
     - [elif Statements](#elif-statements)
     - [while Loop Statements](#while-loop-statements)
+    - [while else Statements](#while-else-statements)
     - [break Statements](#break-statements)
     - [continue Statements](#continue-statements)
     - [for Loops and the range() Function](#for-loops-and-the-range-function)
