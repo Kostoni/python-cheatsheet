@@ -774,6 +774,10 @@ useful when a `break` condition can occur in the loop:
 >>>    print("only executed when no item of the list is equal to 3")
 ```
 
+Блок else после циклов относится не к самому циклу, а к оператору break!
+
+Блок else выполнится в любом случае, если только выполнение цикла не было прервано оператором break, return или raise.
+
 [_Return to the Top_](#python-cheatsheet)
 
 ### Importing Modules
