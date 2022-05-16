@@ -2332,6 +2332,9 @@ A List comprehension can be generated from a dictionary:
 | `\t`             | Tab                  |
 | `\n`             | Newline (line break) |
 | `\\`             | Backslash            |
+| `\b`             | Backspace            |
+| `\ooo`           | Octal value          |
+| `\r`             | Carriage Return      |
 
 Example:
 
